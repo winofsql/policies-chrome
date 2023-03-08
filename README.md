@@ -16,6 +16,9 @@ Windows Registry Editor Version 5.00
 "1"="[*.]google.com"
 "2"="github.com"
 
+[HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist]
+"1"="cfhdojbkjhnklbpkdaibdccddilifddb"
+
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\safer]
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Microsoft\Windows\safer\codeidentifiers]
