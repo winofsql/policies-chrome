@@ -25,7 +25,7 @@ Windows Registry Editor Version 5.00
 
 ```
 
-![image](https://user-images.githubusercontent.com/1501327/223605104-4f5abe94-1efe-462a-af72-9a7697218518.png)
+![image](https://user-images.githubusercontent.com/1501327/224179695-b7e82aa4-5958-4be6-b2f2-c42df571eac0.png)
 
 ![image](https://user-images.githubusercontent.com/1501327/223605237-2589c040-b1b2-4ce0-83aa-974361e22e38.png)
 
