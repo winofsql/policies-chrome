@@ -15,6 +15,8 @@ Windows Registry Editor Version 5.00
 "PasswordManagerEnabled"=dword:00000000
 "TaskManagerEndProcessEnabled"=dword:00000001
 "TranslateEnabled"=dword:00000001
+"BrowserAddPersonEnabled"=dword:00000000
+"NTPCustomBackgroundEnabled"=dword:00000000
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\CookiesSessionOnlyForUrls]
 "1"="[*.]google.com"
