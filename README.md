@@ -24,6 +24,7 @@ Windows Registry Editor Version 5.00
 "3"="replit.com"
 "4"="[*.]lolipop.jp"
 "5"="paiza.jp"
+"6"="[*.]zoom.us"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist]
 "1"="cfhdojbkjhnklbpkdaibdccddilifddb"
