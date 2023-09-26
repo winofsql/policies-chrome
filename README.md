@@ -22,6 +22,8 @@ Windows Registry Editor Version 5.00
 "1"="[*.]google.com"
 "2"="github.com"
 "3"="replit.com"
+"4"="[*.]lolipop.jp"
+"5"="paiza.jp"
 
 [HKEY_LOCAL_MACHINE\SOFTWARE\Policies\Google\Chrome\ExtensionInstallForcelist]
 "1"="cfhdojbkjhnklbpkdaibdccddilifddb"
